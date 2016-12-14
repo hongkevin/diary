@@ -1,5 +1,14 @@
 개발일기(Development Diary)
 =====
+** 12월 14일(수요일) **
+
+1. AWS Elastic Beanstalk
+- 이미 생성된 EC2 와는 연결을 할 수 없다.
+- EB 를 생성하면서 연결되는 EC2, RDS 등의 정보를 바꿀 수 있다.
+
+2. 젠킨스 검토
+- webhook 개념을 적용 - https://www.linkedin.com/pulse/how-build-automated-continuous-deployment-pipeline-jenkins-demiris
+
 ** 12월 12일(월요일) **
 
 1. Jira Cloud 검토
