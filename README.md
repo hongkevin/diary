@@ -1,5 +1,21 @@
 개발일기(Development Diary)
+
 =====
+
+** 12월16일(금요일) **
+
+1. 자바스크립트 완벽가이드
+- forEach: 세 가지 인자를 넘기면서 호출(배열의 원소값, 원소의 인덱스값, 배열)
+- map: 배열 원소 하나씩 넘기면서 호출
+
+2. 어드민
+- DB 컬럼 추가 필요 -> creator(등록자), updator(수정자), Nullable("-"로 일괄표기)
+- 수정은 제목, 링크, 이미지URL
+- 이미지 업로드 참고
+
+3. 기사관리 관련 API
+- lambda 프로젝트 -> api/content/notices 참고
+
 ** 12월 14일(수요일) **
 
 1. AWS Elastic Beanstalk
