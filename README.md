@@ -5,7 +5,7 @@
 
 1. D3.js - https://github.com/d3/d3/wiki
 
-2. 블로그 - 꾸준하게 심도있게 작성하기.
+2. 블로그 - 꾸준하게 심도있게 작성하기 - https://medium.com/@hongkevin
 
 ** 12월16일(금요일) **
 
