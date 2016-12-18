@@ -3,6 +3,13 @@
 
 ** 12월17일(토요일) **
 
+1. 중급개발자되기 - https://www.youtube.com/watch?v=_X-Betqyyxw
+
+2. NginX 설정 - https://brunch.co.kr/@cheese10yun/3
+
+
+** 12월17일(토요일) **
+
 1. D3.js - https://github.com/d3/d3/wiki
 
 2. 블로그 - 꾸준하게 심도있게 작성하기 - https://medium.com/@hongkevin
