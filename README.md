@@ -1,6 +1,13 @@
 개발일기(Development Diary)
 =====
 
+** 12월19일(월요일) **
+
+1. C#, ASP.net - https://teamtreehouse.com/library/c-basics/perform/repl
+
+2. 블로그 새 글(DB - 테이블 생성) - https://medium.com/@hongkevin/db-1-mysql-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%83%9D%EC%84%B1-%EC%8B%9C-%EA%B3%A0%EB%A0%A4%ED%95%A0-%EA%B2%83%EB%93%A4-cdf376d396fc#.pi29yivvt
+
+
 ** 12월17일(토요일) **
 
 1. 중급개발자되기 - https://www.youtube.com/watch?v=_X-Betqyyxw
