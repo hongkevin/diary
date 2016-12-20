@@ -1,6 +1,14 @@
 개발일기(Development Diary)
 =====
 
+** 12월20일(화요일) **
+
+1. EC5 - forEach, map, reduce, filter, every, some
+
+2. C# - app.config, Zigbang.edmx => DB스키마 변경
+
+3. html, css, js, jQuery - form 통합, 변수통일
+
 ** 12월19일(월요일) **
 
 1. C#, ASP.net - https://teamtreehouse.com/library/c-basics/perform/repl
