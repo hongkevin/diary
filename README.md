@@ -1,6 +1,12 @@
 개발일기(Development Diary)
 =====
 
+** 12월21일(수요일) **
+
+1. C# - linq join(left outer join), class 생성 
+
+2. jQuery - Documentation 참고
+
 ** 12월20일(화요일) **
 
 1. EC5 - forEach, map, reduce, filter, every, some
