@@ -1,6 +1,10 @@
 개발일기(Development Diary)
 =====
 
+** 12월24일(토요일) **
+
+1. 9XD 개발자 모임 
+
 ** 12월21일(수요일) **
 
 1. C# - linq join(left outer join), class 생성 
