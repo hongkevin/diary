@@ -1,6 +1,10 @@
 개발일기(Development Diary)
 =====
 
+** 12월26일(월요일) **
+
+1. AWS deploy from C#(AWS toolkit), lambda(gulp)
+
 ** 12월24일(토요일) **
 
 1. 9XD 개발자 모임 
