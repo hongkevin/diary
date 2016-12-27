@@ -1,6 +1,12 @@
 개발일기(Development Diary)
 =====
 
+** 12월27일(화요일) **
+
+1. ejs vs. mustache
+
+2. C# - disabled, extensions
+
 ** 12월26일(월요일) **
 
 1. AWS deploy from C#(AWS toolkit), lambda(gulp)
